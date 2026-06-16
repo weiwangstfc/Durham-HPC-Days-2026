@@ -103,7 +103,7 @@ supported_link: ""
 description: "Discover how Research Infrastructure Engineers (RIEs) and Research Software Engineers (RSEs) can work together to boost HPC user confidence and improve cluster efficiency.
 
 Building and running scientific software on HPC systems is becoming increasingly complex, particularly as traditional toolchains meet rapidly evolving AI workflows. This session brings together perspectives from research infrastructure engineering and emerging concepts for federated AI applications, exploring how software stacks are built, managed, and supported in practice.
-Rather than focusing on tools alone, we want to examine the tensions between portability and performance, central provision and user responsibility, and standardisation versus local practice. An interactive unconference will invite participants to share experiences and explore how software environments—and the roles that support them are evolving for modern research computing.
+Rather than focusing on tools alone, we want to examine the tensions between portability and performance, central provision and user responsibility, and standardisation versus local practice. An interactive unconference will invite participants to share experiences and explore how software environments and the roles that support them are evolving for modern research computing.
 
 <br>
 <b>Dugan Witherick - Building and running Scientific Software from the RIE perspective</b>
